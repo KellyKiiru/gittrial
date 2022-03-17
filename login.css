@@ -1,0 +1,22 @@
+form{
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+#password{
+    margin-top: 5%;
+}
